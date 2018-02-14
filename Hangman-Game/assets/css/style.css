@@ -1,0 +1,33 @@
+body{
+
+
+}
+h1{
+    color: rgb(32, 32, 32);
+    align: center;
+   
+}
+
+.jumbotron {
+    align-content: center;
+
+}
+
+#container {
+
+    overflow: auto;
+    color: rgb(59, 59, 59);
+    text-align: center;
+
+}
+
+.auth-image {
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+
+
+//ran out of time to make this look presentable. 
+//sorry TAs.  
