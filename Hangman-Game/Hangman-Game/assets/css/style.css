@@ -1,0 +1,41 @@
+body{
+    background-image: url("../images/spacebg.jpg");
+    font-family: 'Ubuntu Condensed', sans-serif;
+
+}
+.display-3{
+    color: rgba(255, 255, 255, 0.829);
+}
+.jumbotron{
+    background-color: black;
+    color: rgba(255, 255, 255, 0.829);
+}
+h1{
+    color: rgb(32, 32, 32);
+    text-align: left; 
+}
+#game{
+    padding-top: 20px;
+}
+.section-title1{
+    color: rgb(231, 143, 231);
+}
+
+#container {
+    overflow: auto;
+    color: rgb(59, 59, 59);
+    text-align: center;
+
+}
+#image{
+    align-content: center;
+    padding-top: 20px;
+    
+}
+.auth-image {
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 50px;
+
